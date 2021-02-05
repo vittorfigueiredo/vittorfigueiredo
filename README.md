@@ -12,4 +12,4 @@
 
   
     
-                                               [![GitHub Status](https://github-readme-stats.vercel.app/api?username=vitorfigueiredopb&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+    [![GitHub Status](https://github-readme-stats.vercel.app/api?username=vitorfigueiredopb&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
