@@ -9,3 +9,5 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa - UNIPÊ
 - Tenho um perfil no Instagram chamado [DEVLANDIA](https://www.instagram.com/devlandia) como contéudo de humor sobre a comunidade Dev
+
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=vitorfigueiredopb)](https://github.com/anuraghazra/github-readme-stats)
