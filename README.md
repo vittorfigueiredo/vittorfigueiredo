@@ -7,5 +7,5 @@
 
 ### About me
 
-Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa - UNIPÊ
-Tenho um perfil no Instagram chamado [DEVLANDIA](https://www.instagram.com/devlandia) como contéudo de humor sobre a comunidade Dev
+- [Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa - UNIPÊ]
+- [Tenho um perfil no Instagram chamado [DEVLANDIA](https://www.instagram.com/devlandia) como contéudo de humor sobre a comunidade Dev]
