@@ -1,4 +1,4 @@
-# Hi, I'm Vitor!
+# Hi, I'm Vitor! 😉
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/vitorfigueiredopb)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/vitorfigueiredopb/)
@@ -7,8 +7,8 @@
 
 ### About me
 
-- Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa - UNIPÊ
-- Tenho um perfil no Instagram chamado [DEVLANDIA](https://www.instagram.com/devlandia) como contéudo de humor sobre a comunidade Dev
+- Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa - UNIPÊ.
+- Tenho um perfil no Instagram chamado [DEVLANDIA](https://www.instagram.com/devlandia) com contéudo de humor sobre programação e tecnologiaa no geral.
 
   
     
