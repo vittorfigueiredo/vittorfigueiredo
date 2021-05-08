@@ -1,6 +1,7 @@
 # Hi, I'm Vitor! 😉
 
-### Contato
+### Contato 📧
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorfigueiredopb/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/vitorfigueiredopb)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vitordeveloper)
@@ -11,7 +12,7 @@
 - Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa - UNIPÊ.
 - Tenho um perfil no Instagram chamado [DEVLANDIA](https://www.instagram.com/devlandia) com contéudo de humor sobre programação e tecnologiaa no geral.
 
-### Linguagens e ferramentas 📧
+### Linguagens e ferramentas 🧰
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
