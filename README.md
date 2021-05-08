@@ -13,9 +13,9 @@
 
 ### Linguagens e ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
 
   
     
-    [![GitHub Status](https://github-readme-stats.vercel.app/api?username=vitorfigueiredopb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=vitorfigueiredopb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
