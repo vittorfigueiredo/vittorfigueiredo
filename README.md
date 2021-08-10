@@ -30,5 +30,8 @@
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </br>    
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=vitorfigueiredopb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorfigueiredopb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfigueiredopb&layout=compact&langs_count=7&theme=dark"/>
+</div>
