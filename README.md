@@ -1,4 +1,4 @@
-# Olá, Eu sou o Vitor!
+# Olá, eu sou o Vitor!
 
 ### Sobre mim 👨‍💻
 
