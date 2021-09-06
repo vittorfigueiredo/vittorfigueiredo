@@ -1,11 +1,10 @@
-# Olá, eu sou o Vitor!
+# Hi, I'm Vitor!
 
-### Sobre mim 👨‍💻
+### About me 👨‍💻
 
-- Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário de João Pessoa - UNIPÊ.
-- Tenho um perfil no Instagram chamado [DEVLANDIA](https://www.instagram.com/devlandia) com contéudo de humor sobre programação e tecnologiaa no geral.
+- I am 20 years old and i am a student of systems analysis and development by the University Center of João Pessoa - UNIPÊ. I am fascinated by technology and love to develop solutions that make people's lives easier.
 
-### Linguagens e ferramentas 🧰
+### Languages and tools 🧰
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +24,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </br>
 
-### Contato 📧
+### Contact 📧
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorfigueiredopb/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/vitorfigueiredopb)
