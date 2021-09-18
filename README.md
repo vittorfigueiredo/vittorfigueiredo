@@ -26,12 +26,12 @@
 
 ### Contact 📧
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorfigueiredopb/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/vitorfigueiredopb)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vit0rdev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittorfigueiredo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/vittorfigueiredo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vittorfig)
 
 <div>
-  <a href="https://github.com/vitorfigueiredopb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorfigueiredopb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfigueiredopb&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/vittorfigueiredo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vittorfigueiredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorfigueiredo&layout=compact&langs_count=7&theme=dark"/>
 </div>
