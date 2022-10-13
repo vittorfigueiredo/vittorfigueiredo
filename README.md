@@ -2,7 +2,7 @@
 
 ### About me 👨‍💻
 
-- I am 20 years old and i am a student of systems analysis and development by the University Center of João Pessoa - UNIPÊ. I am fascinated by technology and love to develop solutions that make people's lives easier.
+- 🎓 Graduated in Systems Analysis and Development.
 
 ### Languages and tools 🧰
 
