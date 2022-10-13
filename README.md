@@ -1,6 +1,7 @@
-# Hi, I'm Vitor!
+# Hey, I'm Vitor! 👋🏿
 
-🎓 Graduated in Systems Analysis and Development and web developer.
+👨🏿‍💻 Web developer at Moovery. </br>
+🎓 Graduated in Systems Analysis and Development.
 
 <div align="center">
   <a href="https://github.com/vittorfigueiredo">
