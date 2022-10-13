@@ -1,8 +1,12 @@
 # Hi, I'm Vitor!
 
-### About me 👨‍💻
+🎓 Graduated in Systems Analysis and Development and web developer.
 
-🎓 Graduated in Systems Analysis and Development.
+<div align="center">
+  <a href="https://github.com/vittorfigueiredo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vittorfigueiredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorfigueiredo&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Languages and tools 🧰
 
@@ -18,9 +22,3 @@
 ### Contact 📧
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vittorfigueiredo/)
-
-<div>
-  <a href="https://github.com/vittorfigueiredo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vittorfigueiredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorfigueiredo&layout=compact&langs_count=7&theme=dark"/>
-</div>
