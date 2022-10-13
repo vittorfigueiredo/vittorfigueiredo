@@ -1,6 +1,6 @@
 # Hey, I'm Vitor! 👋🏿
 
-👨🏿‍💻 Web developer at Moovery. </br>
+👨🏿‍💻 Backend developer at Moovery. </br>
 🎓 Graduated in Systems Analysis and Development.
 
 <div align="center">
