@@ -2,7 +2,7 @@
 
 ### About me 👨‍💻
 
-- 🎓 Graduated in Systems Analysis and Development.
+🎓 Graduated in Systems Analysis and Development.
 
 ### Languages and tools 🧰
 
