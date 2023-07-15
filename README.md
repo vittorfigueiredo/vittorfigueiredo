@@ -6,4 +6,4 @@ I am mainly interested in build web services using PHP, NestJS, MySQL, PostgreSQ
 
 ## My profiles on the web
 
-[Website](https://vitorfigueiredo.com/) **|** [LinkedIn](https://www.linkedin.com/in/vittorfigueiredo/) **|** [Twitter](https://twitter.com/ovitorfs)
+[Website](https://vitorfigueiredo.com/) **|** [LinkedIn](https://www.linkedin.com/in/vittorfigueiredo/)
